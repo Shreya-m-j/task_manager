@@ -1,16 +1,13 @@
 # task_manager
 
-A new Flutter project.
+A flutter project to manage tasks. Allows user to create, view, edit and delete tasks. User can also select dark or light mode, sorting order based on their preference. 
 
-## Getting Started
+Steps to Clone:
 
-This project is a starting point for a Flutter application.
+1) Open the code editor (VS Code) and create a folder.
+2) git clone https://github.com/Shreya-m-j/task_manager.git in terminal.
+3) cd task_manager.
+4) Install dependencies : flutter pub get.
+5) Run the project in VS Code.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
